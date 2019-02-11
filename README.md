@@ -7,5 +7,5 @@ Portfolio of my data science projects for academic &amp; self-learning.
   
   
 * Machine Learning
-  - Sentiment Analysis of Restaurant Reviews : Built in Python. Cleaned and processed raw reviews for analysis of restaurant dishes using NLTK. 
+  - [Sentiment Analysis of Restaurant Reviews:](https://github.com/mayankkgandhi/DataScience-Portfolio/tree/master/Sentiment%20Analysis%20on%20Reviews) Built in Python. Cleaned and processed raw reviews for analysis of restaurant dishes using NLTK. 
   - Sonar Classification
