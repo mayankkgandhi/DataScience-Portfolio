@@ -16,3 +16,5 @@ Portfolio of my data science projects for academic &amp; self-learning.
 
 * Data Visualization
   - [Exploring Crime In Chicago (2001-2018)](https://github.com/mayankkgandhi/Data-Visulazation/tree/master/CRIME%20IN%20CHICAGO)
+
+  - [Explanatory Analysis of Bank Churn](https://github.com/mayankkgandhi/Data-Visualization/tree/master/Bank%20Churn)
